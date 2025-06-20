@@ -6,7 +6,6 @@
 ## ✨ Features
 - 🕒 Set reminders with specific due dates/times
 - 🔔 Desktop notifications when tasks are due
-- 🌓 Automatic light/dark theme matching system preference
 - 📦 Offline-first design (works without internet)
 - 🗑️ One-click task removal
 - 📱 Responsive design for all screen sizes
