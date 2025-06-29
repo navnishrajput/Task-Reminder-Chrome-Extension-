@@ -1,6 +1,6 @@
 # 🚀 Task Reminder Chrome Extension
 
-![Extension Banner](assets/banner.png)  
+
 *A lightweight productivity tool that helps you never miss important tasks*
 
 ## ✨ Features
